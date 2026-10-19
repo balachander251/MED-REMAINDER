@@ -35,7 +35,7 @@ JavaScript -	Functionality and reminder logic.
 4.Provides a clean and simple design for elderly users.
 
 # view
-https://rohith077777.github.io/MED-REMAINDER/
+https://balachander251.github.io/MED-REMAINDER/
  
 # Working Process:
 
